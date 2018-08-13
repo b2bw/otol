@@ -17,11 +17,11 @@ function scatterLeaves() {
   }
 }
 
-window.addEventListener("resize", scatterLeaves);
-scatterLeaves()
+// window.addEventListener("resize", scatterLeaves);
+// scatterLeaves()
 
 // Accepts any class name
-var rellax = new Rellax('.rellax');
+// var rellax = new Rellax('.rellax');
 
 
 //   social
@@ -82,7 +82,7 @@ function notFound() {
 function processHash() {
   const hash = location.hash || '#';
   route(hash.slice(1));
-  scatterLeaves()
+  // scatterLeaves()
 }
 
 function routeTo(target) {
