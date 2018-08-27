@@ -4,21 +4,25 @@ function scatterLeaves() {
       html = document.documentElement,
       width = window.innerWidth||e.clientWidth||g.clientWidth;
 
-  var height = Math.max( body.scrollHeight, body.offsetHeight,
-			 html.clientHeight, html.scrollHeight, html.offsetHeight );
+  // var height = Math.max( body.scrollHeight, body.offsetHeight,
+  //      html.clientHeight, html.scrollHeight, html.offsetHeight );
+       
+  var height = document.querySelector('#leaves').clientHeight;
 
   for(var i = 0; i < leaves.length; i++) {
     var horOffset = width * (leaves[i].getAttribute('data-hor')/100)
     var vertOffset = height * (leaves[i].getAttribute('data-vert')/100)
-    var randoRot = Math.random()
-    var myHeight = leaves[i].offsetHeight
-    leaves[i].style.left = horOffset + 'px';
-    leaves[i].style.top = vertOffset - myHeight + 'px';
+    // var randoRot = Math.random()
+    // var myHeight = leaves[i].offsetHeight
+    leaves[i].style.transform = 'translate3d(' + vertOffset + 'px, ' + horOffset + 'px, ' + horOffset + 'px)';
+    // leaves[i].style.top = vertOffset - myHeight + 'px';
   }
 }
 
-// window.addEventListener("resize", scatterLeaves);
-// scatterLeaves()
+window.addEventListener("resize", scatterLeaves);
+setTimeout(() => {
+  scatterLeaves()
+}, 2000);
 
 // Accepts any class name
 // var rellax = new Rellax('.rellax');
