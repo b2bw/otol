@@ -18,6 +18,7 @@ collections:
   - sections
   - sections-kuratle
   - sections-nikin
+  - sections-zurich
 
 exclude:
   - Gemfile

@@ -9,10 +9,10 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
   <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-  <meta property="og:image" content="{{"assets/img/otol-fb-share-2018.jpg " | absolute_url }}" />
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <meta property="og:image" content='{{"assets/img/otol-fb-share-2018.jpg " | absolute_url }}' />
+  <link rel="stylesheet" href='{{ "/assets/main.css" | relative_url }}'>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href='{{ "/feed.xml" | relative_url }}'>
   <link rel="stylesheet" href="{{ 'js/swipe/photoswipe.css' | relative_url }}">
   <link rel="stylesheet" href="{{ 'js/swipe/default-skin/default-skin.css' | relative_url }}">
 </head>

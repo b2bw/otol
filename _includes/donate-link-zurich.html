@@ -1,0 +1,19 @@
+<a
+  href="https://www.bos-schweiz.ch/de/helfen/spenden/baum.htm?rnw-amount={{include.amount}}&rnw-stored_customer_email_permission=true&rnw-stored_customer_message={{include.message}}"><button
+    class="button {{include.class}}">
+
+    {% if include.icon %}{% assign name =
+    {{include.icon}} %}{% include svg_icon.html name=name %}{% endif %}
+
+    <div class="button-info">
+
+      <div class="item">{{include.item}}</div>
+
+      {% if include.description %}
+      <div class="description">{{include.description}}</div>
+      {% endif %}
+    </div>
+    {% if include.price %}
+    <span class="price">{{include.price}}</span>
+    {% endif %}
+  </button></a>

@@ -1,4 +1,89 @@
 ---
+zurich_paypal:
+  de:
+    - item: 1 Baum 
+      description: (Setzling + 5 Jahre Pflege)
+      price: CHF 7.65
+      code: RWAMJMGNSRNA8
+      icon: tree-small
+      class: cta-button gift
+    - item: 10 Bäume 
+      description: (Setzlinge + 5 Jahre Pflege)
+      price: CHF 76.50
+      code: 55HAFKN58FARQ
+      icon: tree-medium
+      class: cta-button gift
+    - item: beliebiger Betrag
+      code: T7WCHGP3FTHFQ
+      icon: sprout3
+      class: cta-button gift simple
+    - item: Bäume mit Urkunde verschenken
+      code: TCE9469S63S4S
+      icon: gift-solid
+      class: cta-button gift simple
+  fr:
+    - item: 1 arbre 
+      description: (plant + 5 ans entretien)
+      price: CHF 7.65
+      code: RWAMJMGNSRNA8
+      icon: tree-small
+      class: cta-button gift
+    - item: 10 arbres 
+      description: (plants + 5 ans entretien)
+      price: CHF 76.50
+      code: 55HAFKN58FARQ
+      icon: tree-medium
+      class: cta-button gift
+    - item: Contribution libre 
+      code: T7WCHGP3FTHFQ
+      icon: sprout3
+      class: cta-button gift simple
+    - item: Faire un don et recevoir un certificat de plantation
+      code: TCE9469S63S4S
+      icon: gift-solid
+      class: cta-button gift simple
+  it:
+    - item: 1 albero 
+      description: (piantina + 5 anni di manutenzione)
+      price: CHF 7.65
+      code: RWAMJMGNSRNA8
+      icon: tree-small
+      class: cta-button gift
+    - item: 10 alberi 
+      description: (piantine + 5 anni di manutenzione)
+      price: CHF 76.50
+      code: 55HAFKN58FARQ
+      icon: tree-medium
+      class: cta-button gift
+    - item: importo a scelta 
+      code: T7WCHGP3FTHFQ
+      icon: sprout3
+      class: cta-button gift simple
+    - item: attestazione per gli alberi donati 
+      code: TCE9469S63S4S
+      icon: gift-solid
+      class: cta-button gift simple
+  en:
+    - item: 1 Tree 
+      description: (seedling + 5 years of care)
+      price: CHF 7.65
+      code: RWAMJMGNSRNA8
+      icon: tree-small
+      class: cta-button gift
+    - item: 10 Trees
+      description: (seedlings + 5 years of care)
+      price: CHF 76.50
+      code: 55HAFKN58FARQ
+      icon: tree-medium
+      class: cta-button gift
+    - item: Any amount
+      code: T7WCHGP3FTHFQ
+      icon: sprout3
+      class: cta-button gift simple
+    - item: Gift a tree (with certificate)
+      code: TCE9469S63S4S
+      icon: gift-solid
+      class: cta-button gift simple
 nikin_paypal:
 - label: 1 Baum - CHF 7.65 *
   code: RWAMJMGNSRNA8

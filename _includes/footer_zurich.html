@@ -1,0 +1,111 @@
+<footer class="site-footer">
+  <div class="footer-content">
+
+    <div class="footer-logos">
+      <a href="#campaign"><img src="{{ 'assets/img/logo-simple.svg' | relative_url }}" alt="BOS Logo" ></a>
+      <a href="https://zurich.ch"><img src="{{ 'assets/img/logo-zurich.svg' | relative_url }}" alt="Zurich Insurance Logo" ></a>
+    </div>
+    <h2>
+      {{site.data.translations[page.lang].footer-byline}}
+    </h2>
+    <!-- <h2>{{ site.description | escape }}</h2> -->
+    <div class="social">
+      <a href="" class="button simple twitter-share">
+        {% include svg_icon.html name="twitter" %}
+      </a>
+      <a href="https://www.facebook.com/BOS-Schweiz-622659787747268/" class="button simple">
+        {% include svg_icon.html name="facebook" %}
+      </a>
+      <a href="https://www.instagram.com/bos_schweiz/" target="_blank" class="button simple instagram-share">
+        {% include svg_icon.html name="instagram" %}
+      </a>
+    </div>
+
+
+    <!-- links & info -->
+    <div class="links-info">
+      <div class="footer-left">
+        <h4>Links</h4>
+        <ul>
+
+          <li>
+            <a href="http://bos-schweiz.ch" target="_blank">BOS Website</a>
+          </li>
+          <li>
+            <a href="http://www.bos-schweiz.ch/de/ueber-bos/datenschutz-bei-bos.htm" target="_blank">Datenschutzbestimmungen</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-middle">
+
+        <h4>Kontakt</h4>
+        <p>
+          BOS Schweiz
+        </p>
+        <p>
+          Zweierstr. 38a
+        </p>
+        <p>
+          8004 Zürich
+        </p>
+        <p>
+          <a href="mailto:info@bos-schweiz.ch">
+            info@bos-schweiz.ch
+          </a>
+        </p>
+
+
+      </div>
+      <div class="footer-right">
+
+
+
+        <h4>
+
+          Spendenkonto
+        </h4>
+        <p>
+          <strong>
+            BOS Schweiz
+          </strong>
+        </p>
+
+        <p>
+          <strong>
+            Stichwort:
+          </strong>
+          Aufforstung Nikin
+        </p>
+
+        <p>
+          <strong>
+            PC CHF:
+          </strong>
+          85-651634-3
+        </p>
+
+        <p>
+          <strong>
+            IBAN:
+          </strong>
+          CH06 0900 0000 8565 1634 3
+        </p>
+
+        <p>
+          <strong>
+            BIC:
+          </strong>
+          POFICHBEXXX
+        </p>
+
+      </div>
+    </div>
+
+
+
+    <!-- copyright -->
+    <div class="copyright">
+      <span>&copy; {{ 'now' | date: "%Y" }} BOS Schweiz</span>
+    </div>
+  </div>
+</footer>
