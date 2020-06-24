@@ -27,13 +27,16 @@ function showLeaves() {
 // if not, it inlines the donate-group
 function checkButtonPlacement() {
   const windowHeight = window.innerHeight||e.clientHeight||g.clientHeight;
+  const windowWidth = window.innerWidth||e.clientWidth||g.clientWidth;
   const donateGroupInlineClass = 'donate-group--inline'
   const buttonGroup = document.querySelectorAll('.donate-group')[0]
 
-  if (windowHeight <= buttonGroup.clientHeight) {
+  if (windowHeight <= buttonGroup.clientHeight || windowWidth <= 1500) {
     buttonGroup.classList.add(donateGroupInlineClass)
+    document.body.classList.remove('sideButtons')
   } else {
     buttonGroup.classList.remove(donateGroupInlineClass)
+    document.body.classList.add('sideButtons')
   }
 }
 
@@ -50,6 +53,7 @@ window.addEventListener('load', function () {
   adjustView()
   setTimeout(() => {
     showLeaves()
+    checkButtonPlacement()
   }, 1000);
 })
 // window.onload = adjustView

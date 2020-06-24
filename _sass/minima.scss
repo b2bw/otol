@@ -41,6 +41,7 @@ $gradient4: linear-gradient(53.72deg, $salmon 0%, $plum 99.49%);
 $gradient5: linear-gradient(53.72deg, $banana 0%, $forest-green 99.49%);
 $gradient6: linear-gradient(53.72deg, $banana 0%, $salmon 99.49%);
 $gradient7: linear-gradient(53.72deg, $forest-green 0%, $warm-green 99.49%);
+
 // grid
 .grid {
     background-color: transparent;
@@ -49,12 +50,14 @@ $gradient7: linear-gradient(53.72deg, $forest-green 0%, $warm-green 99.49%);
     background-size: 32px 32px;
 }
 
-$mq-breakpoints: ( mobile: 320px, tablet: 740px, desktop: 980px, wide: 1300px, superwide: 1500px);
+$mq-breakpoints: (mobile: 320px, tablet: 740px, desktop: 980px, wide: 1300px, superwide: 1500px);
 // $mq-show-breakpoints: (mobile, tablet, desktop, wide, superwide);
 @import 'mq',
 'reset';
+
 .visible-superwide {
     display: none;
+
     @include mq($from: superwide) {
         display: block;
     }
@@ -78,6 +81,7 @@ h5,
 h6 {
     color: $warm-green;
     font-weight: 700;
+
     .reverse & {
         color: white;
     }
@@ -102,6 +106,7 @@ a:hover {
 }
 
 .wf-loading {
+
     h1,
     h2,
     h3,
@@ -116,6 +121,7 @@ a:hover {
 }
 
 .wf-inactive {
+
     h1,
     h2,
     h3,
@@ -137,10 +143,11 @@ header.site-header {
     width: 20rem;
     position: relative;
     margin: 0 auto; // @include mq($from: tablet) {
+
     //     width: 18rem;
     // }
     @include mq($from: superwide) {
-        margin:0;
+        margin: 0;
     }
 }
 
@@ -173,6 +180,7 @@ main.game {
     justify-content: center;
     align-items: center;
     margin: $spacing-unit*2 0;
+
     svg {
         fill: currentColor;
         width: 3rem;
@@ -192,6 +200,7 @@ main.game {
     justify-content: space-between;
     align-items: flex-start;
     width: 100%;
+
     &:hover {
         background: $forest-green;
     }
@@ -200,6 +209,7 @@ main.game {
         display: flex;
         flex-flow: column wrap;
         text-align: left;
+
         .description {
             font-weight: 300;
         }
@@ -218,10 +228,12 @@ main.game {
 .reverse {
     background: $gradient1;
     color: white;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
 }
 
 .alternate {
     background: $gradient2;
+
     h2 {
         color: $alternate-color;
     }
@@ -229,6 +241,7 @@ main.game {
 
 .gift {
     background: $jungle-green;
+
     &:hover {
         background: $forest-green;
     }
@@ -241,29 +254,35 @@ main.game {
     flex-flow: row wrap;
     z-index: 999;
     margin-top: 5rem; // margin: 1rem;
+
     @include mq($from: superwide) {
         // margin: 1rem -.5rem;
         flex-flow: column wrap;
         margin-top: 0;
 
         &--inline {
-          flex-flow: row wrap;
+            flex-flow: row wrap;
         }
     }
+
     .button-wrapper {
         padding: .5rem;
         padding-bottom: 0;
         width: 100%;
+
         form {
             height: 5.5rem;
         }
+
         @include mq($from: tablet) {
             flex: 0 1 50%;
         }
+
         a:hover {
             text-decoration: none;
         }
     }
+
     @include mq($from:superwide) {
         position: fixed;
         top: $spacing-unit;
@@ -272,13 +291,14 @@ main.game {
         justify-content: flex-end;
 
         &--inline {
-          position: relative;
-          top: inherit;
-          width: 100%;
-          right: inherit;
-          justify-content: inherit;
+            position: relative;
+            top: inherit;
+            width: 100%;
+            right: inherit;
+            justify-content: inherit;
         }
     }
+
     .social {
         display: flex;
         color: $bright-green;
@@ -286,38 +306,55 @@ main.game {
         width: 100%;
         justify-content: center;
         flex-flow: row wrap;
+
+        a {
+            text-decoration: none;
+        }
+
         @include mq($from: superwide) {
             flex-flow: column;
             align-items: flex-start;
         }
+
         .button {
             margin: 0;
             padding: .5rem;
             font-size: .75rem;
             margin-right: .5rem;
+
             @include mq ($from: tablet) {
                 padding: 1rem;
                 font-size: 1rem; // margin-right: 2rem;
             }
+
             &.share {
                 background-color: rgba(white, .3);
                 box-shadow: 0 .5rem 1rem rgba($dark-gray, .15);
                 border-radius: .125rem;
+
                 &:hover {
                     background-color: #fff;
                     text-decoration: none;
                 }
             }
+
+            a {
+                text-decoration: none;
+
+            }
         }
+
         svg {
             width: 2rem;
             height: 2rem;
             margin-right: .5rem;
             margin-left: .5rem;
         }
+
         .button-wrapper {
             flex: 0 1 50%;
             margin-bottom: .5rem;
+
             @include mq($from: tablet) {
                 flex: 0 1 calc(100%/3);
             }
@@ -328,7 +365,9 @@ main.game {
 @keyframes fadeIn {
     from {
         opacity: 0;
-    } to {
+    }
+
+    to {
         opacity: 1;
     }
 }
@@ -336,7 +375,7 @@ main.game {
 #leaves {
     display: none;
     // opacity: 0;
-    
+
     &.scattered {
         animation: fadeIn 2s;
         display: block;
@@ -353,42 +392,52 @@ main.game {
 section {
     padding: $spacing-unit*4 $spacing-unit;
     overflow: hidden;
+
     h2 {
         font-family: $header-font-family;
         font-size: 2rem;
         line-height: 1.25;
         margin-bottom: 2rem;
         font-weight: 700;
+
         @include mq($from: tablet) {
             font-size: 3rem;
         }
     }
+
     .content {
         max-width: 45rem;
         margin: 0 auto;
         line-height: $base-line-height;
         position: relative;
+
         p {
             margin-bottom: $spacing-unit;
             font-size: 1.125rem;
             line-height: 1.75;
+
             @include mq($from: tablet) {
                 font-size: 1.3rem;
                 line-height: 1.58;
             }
         }
+
         p.image {
             margin-bottom: 0;
         }
     }
+
     &#intro {
         padding-top: 14rem;
+
         @include mq($from: superwide) {
             padding: $spacing-unit*4 $spacing-unit;
         }
     }
+
     p a {
         box-shadow: inset 0 -3px 0 rgba($warm-green, .5);
+
         &:hover {
             box-shadow: inset 0 -3px 0 rgba($warm-green, 1);
             text-decoration: none;
@@ -404,6 +453,7 @@ section {
     text-align: center;
     padding: $spacing-unit 0;
     text-align: left;
+
     em {
         font-size: .8rem;
         display: block;
@@ -416,13 +466,16 @@ section {
         margin: 0 $spacing-unit*2;
         padding: 0;
         max-width: 400px;
+
         img {
             margin-top: $spacing-unit*.5;
         }
+
         &.left {
             float: left;
             margin-left: -6rem;
         }
+
         &.right {
             float: right;
             margin-right: -6rem;
@@ -435,6 +488,7 @@ section {
         &.left {
             margin-left: -10rem;
         }
+
         &.right {
             margin-right: -10rem;
         }
@@ -449,30 +503,37 @@ footer {
     justify-content: center;
     align-items: center;
     color: white;
+
     a {
         text-decoration: underline;
     }
+
     .links-info {
         display: flex;
-        width: 100vw;
+        width: 100%;
         padding: 3rem;
         max-width: 80rem;
         margin: 0 auto;
         flex-flow: column wrap;
         justify-content: space-between;
+        text-align: left;
         color: $dark-gray;
         margin-bottom: 3rem;
+
         @include mq ($from: desktop) {
             flex-flow: row nowrap;
         }
+
         h4 {
             color: $dark-gray;
             margin-bottom: 1rem;
         }
+
         & div {
             margin-bottom: 3rem;
         }
     }
+
     .footer-content {
         width: 100%;
         position: relative;
@@ -482,6 +543,7 @@ footer {
         // justify-content: center;
         // align-items: center;
     }
+
     h2 {
         color: white;
         font-size: 1.4rem;
@@ -490,10 +552,12 @@ footer {
         text-align: center;
         line-height: 1.4;
     }
+
     svg {
         width: 20rem;
         margin: 0 auto;
     }
+
     .social {
         text-align: center;
         // width: 20rem;
@@ -502,6 +566,7 @@ footer {
         a {
             display: inline;
             margin: 0 auto;
+            text-decoration: none;
         }
     }
 
@@ -511,19 +576,31 @@ footer {
         img {
             width: 100%;
         }
+
         a {
             display: inline-block;
             max-width: 10rem;
         }
     }
+
+    // @include mq($from: superwide) {
+    // }
+}
+
+
+body.sideButtons footer {
+    padding-right: 400px;
+
 }
 
 .person {
     margin-bottom: 3rem;
+
     h3 {
         font-size: 2rem;
         margin-bottom: 2rem;
     }
+
     h4 {
         color: $dark-gray;
         font-size: 1.3rem;
@@ -601,9 +678,11 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+
     .button-wrapper {
         margin: .5rem;
     }
+
     .button {
         margin: 1rem;
     }
@@ -613,9 +692,11 @@ footer {
 .my-gallery {
     display: flex;
     flex-flow: row wrap;
+
     figure {
         flex: 1 1 33.33%;
         padding: 1rem;
+
         img {
             width: 100%;
             height: auto;
@@ -626,11 +707,12 @@ footer {
 .lang-selector {
     text-align: center;
     padding-top: .25rem;
+
     ul {
         li {
             display: inline;
             color: $forest-green;
-            
+
             a {
                 margin: 0 .5rem;
             }
@@ -646,6 +728,7 @@ footer {
 
     &.lang-selector-wide {
         display: none;
+
         @include mq($from: superwide) {
             display: block;
             text-align: right;
