@@ -10,7 +10,8 @@
 </div>
   <div class="wrapper">
 
-    <a class="site-title" href="{{ '/' | relative_url }}">
+   {% assign home = "/" | append: page.lang | append: "/zurich" %}
+    <a class="site-title" href="{{ home }}">
       {% include logo-block.html %}
     </a>
   </div>
