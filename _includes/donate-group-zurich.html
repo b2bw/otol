@@ -10,7 +10,7 @@
   
   {% for button in include.buttons %}
   <div class="button-wrapper">
-    {% include donate-link-zurich.html message=button.message amount=button.amount item=button.item description=button.description price=button.price icon=button.icon class=button.class %}
+    {% include donate-link-zurich.html message=button.message amount=button.amount item=button.item description=button.description price=button.price icon=button.icon class=button.class donate-link=button.link%}
   </div>
   {% endfor %}
   <!-- <em class="visible">* inkl. 5 Jahre Baumpflege</em> -->

@@ -7,20 +7,24 @@ zurich_paypal:
       code: RWAMJMGNSRNA8
       icon: tree-small
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum.htm?rnw-amount=765&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_de
     - item: 10 Bäume 
       description: (Setzlinge + 5 Jahre Pflege)
       price: CHF 76.50
       code: 55HAFKN58FARQ
       icon: tree-medium
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum.htm?rnw-amount=7650&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_de
     - item: beliebiger Betrag
       code: T7WCHGP3FTHFQ
       icon: sprout3
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_de
     - item: Bäume mit Urkunde verschenken
       code: TCE9469S63S4S
       icon: gift-solid
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_mit_Urkunde_de
   fr:
     - item: 1 arbre 
       description: (plant + 5 ans entretien)
@@ -28,20 +32,24 @@ zurich_paypal:
       code: RWAMJMGNSRNA8
       icon: tree-small
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=765&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_fr
     - item: 10 arbres 
       description: (plants + 5 ans entretien)
       price: CHF 76.50
       code: 55HAFKN58FARQ
       icon: tree-medium
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=7650&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_fr
     - item: Contribution libre 
       code: T7WCHGP3FTHFQ
       icon: sprout3
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_fr
     - item: Faire un don et recevoir un certificat de plantation
       code: TCE9469S63S4S
       icon: gift-solid
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_mit_Urkunde_fr
   it:
     - item: 1 albero 
       description: (piantina + 5 anni di manutenzione)
@@ -49,20 +57,24 @@ zurich_paypal:
       code: RWAMJMGNSRNA8
       icon: tree-small
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=765&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_it
     - item: 10 alberi 
       description: (piantine + 5 anni di manutenzione)
       price: CHF 76.50
       code: 55HAFKN58FARQ
       icon: tree-medium
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=7650&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_it
     - item: importo a scelta 
       code: T7WCHGP3FTHFQ
       icon: sprout3
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_it
     - item: attestazione per gli alberi donati 
       code: TCE9469S63S4S
       icon: gift-solid
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_mit_Urkunde_it
   en:
     - item: 1 Tree 
       description: (seedling + 5 years of care)
@@ -70,20 +82,24 @@ zurich_paypal:
       code: RWAMJMGNSRNA8
       icon: tree-small
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=765&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_en
     - item: 10 Trees
       description: (seedlings + 5 years of care)
       price: CHF 76.50
       code: 55HAFKN58FARQ
       icon: tree-medium
       class: cta-button gift
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=7650&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_en
     - item: Any amount
       code: T7WCHGP3FTHFQ
       icon: sprout3
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_en
     - item: Gift a tree (with certificate)
       code: TCE9469S63S4S
       icon: gift-solid
       class: cta-button gift simple
+      link: https://www.bos-schweiz.ch/de/helfen/spenden/baum-en.htm?rnw-amount=&rnw-stored_customer_email_permission=true&rnw-stored_customer_message=BOS_Schweiz_via_Zurich_mit_Urkunde_en
 nikin_paypal:
 - label: 1 Baum - CHF 7.65 *
   code: RWAMJMGNSRNA8
