@@ -1,6 +1,6 @@
 ---
-title: Wir pflanzen Regenwald, Italian style. Hilfst du mit?
+title: One Tree One Life - Il momento migliore per piantare un albero è adesso!
 layout: zurich
 lang: it
-permalink: "/it/zurich/"
+permalink: "/zurich/it"
 ---

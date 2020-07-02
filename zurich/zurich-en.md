@@ -1,6 +1,6 @@
 ---
-title: We're planting the rainforest. Will you help?
+title: One Tree One Life - We're planting the rainforest. Will you help?
 layout: zurich
 lang: en
-permalink: "/en/zurich/"
+permalink: "/zurich/en"
 ---

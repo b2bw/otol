@@ -1,6 +1,6 @@
 ---
-title: Wir pflanzen Regenwald, hilfst du mit?
+title: One Tree One Life - Wir pflanzen Regenwald, hilfst du mit?
 layout: zurich
 lang: de
-permalink: "/de/zurich"
+permalink: "/zurich/de"
 ---

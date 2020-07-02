@@ -1,10 +1,10 @@
 <div class="donate-group">
   <div class="lang-selector lang-selector-wide">
     <ul>
-    <li><a href="/de/zurich" class="lang-link {% if page.lang == 'de' %} active{% endif %}" >DE</a></li>
-    <li><a href="/fr/zurich" class="lang-link {% if page.lang == 'fr' %} active{% endif %}">FR</a></li>
-    <li><a href="/it/zurich" class="lang-link {% if page.lang == 'it' %} active{% endif %}">IT</a></li>
-    <li><a href="/en/zurich" class="lang-link {% if page.lang == 'en' %} active{% endif %}">EN</a></li>
+    <li><a href="/zurich/de" class="lang-link {% if page.lang == 'de' %} active{% endif %}" >DE</a></li>
+    <li><a href="/zurich/fr" class="lang-link {% if page.lang == 'fr' %} active{% endif %}">FR</a></li>
+    <li><a href="/zurich/it" class="lang-link {% if page.lang == 'it' %} active{% endif %}">IT</a></li>
+    <li><a href="/zurich/en" class="lang-link {% if page.lang == 'en' %} active{% endif %}">EN</a></li>
     </ul>
   </div>
   
@@ -28,7 +28,7 @@
       </a>
     </div>
     <div class="button-wrapper">
-      <a href="http://eepurl.com/dhl_Yn" class="button share" alt="updates">
+      <a href="http://eepurl.com/dhl_Yn" class="button share newsletter" alt="updates">
         Updates {% include svg_icon.html name="bell" %} erhalten
       </a>
     </div>
@@ -46,7 +46,7 @@
         </a>
       </div>
       <div class="button-wrapper">
-        <a href="http://eepurl.com/dhl_Yn" class="button share" alt="updates">
+        <a href="{{site.data.translations[page.lang].newsletter-link}}" class="button share newsletter" alt="updates">
           {{ site.data.translations[page.lang].share-updates }}  {% include svg_icon.html name="bell" %} 
         </a>
       </div>

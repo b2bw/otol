@@ -336,6 +336,15 @@ main.game {
                     background-color: #fff;
                     text-decoration: none;
                 }
+
+            }
+            
+            &.newsletter {
+                svg {
+                    transform-origin: 50% -10%;
+                    animation: jingle 10s 2s infinite;
+                }
+
             }
 
             a {
@@ -642,6 +651,54 @@ body.sideButtons footer {
 @keyframes spinner {
     to {
         transform: rotate(360deg);
+    }
+}
+
+@keyframes jingle {
+    0% {
+        transform: rotate(0deg);
+    }
+    
+    1% {
+        transform: rotate(12deg);
+    }
+
+    2% {
+        transform: rotate(-11deg);
+    }
+
+    3% {
+        transform: rotate(8deg);
+    }
+
+    4% {
+        transform: rotate(-7deg);
+    }
+    
+    /* Finish changes by here */
+    5% {
+        transform: rotate(5deg);
+    }
+    
+    6% {
+        transform: rotate(-4deg);
+    }
+
+    7% {
+        transform: rotate(3deg);
+    }
+
+    8% {
+        transform: rotate(-2deg);
+    }
+
+    8% {
+        transform: rotate(0deg);
+    }
+    
+    /* Between 20% and 100%, nothing changes */
+    100% {
+        transform: rotate(0deg);
     }
 }
 

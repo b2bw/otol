@@ -2,15 +2,15 @@
 
   <div class="lang-selector lang-selector-narrow">
   <ul>
-    <li><a href="/de/zurich" class="lang-link {% if page.lang == 'de' %} active{% endif %}" >DE</a></li>
-    <li><a href="/fr/zurich" class="lang-link {% if page.lang == 'fr' %} active{% endif %}">FR</a></li>
-    <li><a href="/it/zurich" class="lang-link {% if page.lang == 'it' %} active{% endif %}">IT</a></li>
-    <li><a href="/en/zurich" class="lang-link {% if page.lang == 'en' %} active{% endif %}">EN</a></li>
+    <li><a href="/zurich/de" class="lang-link {% if page.lang == 'de' %} active{% endif %}" >DE</a></li>
+    <li><a href="/zurich/fr" class="lang-link {% if page.lang == 'fr' %} active{% endif %}">FR</a></li>
+    <li><a href="/zurich/it" class="lang-link {% if page.lang == 'it' %} active{% endif %}">IT</a></li>
+    <li><a href="/zurich/en" class="lang-link {% if page.lang == 'en' %} active{% endif %}">EN</a></li>
   </ul>
 </div>
   <div class="wrapper">
 
-   {% assign home = "/" | append: page.lang | append: "/zurich" %}
+   {% assign home = "/" | append: "zurich/" | append: page.lang %}
     <a class="site-title" href="{{ home }}">
       {% include logo-block.html %}
     </a>
