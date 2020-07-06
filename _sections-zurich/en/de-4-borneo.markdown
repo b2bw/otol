@@ -9,7 +9,7 @@ Over thousands of years, the rainforests of Borneo have grown into some of the m
 
 {: .image.left}
 ![image-title-here](/assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
-_&copy;Björn Vaughn, BPI_
+_&copy; Björn Vaughn, BPI_
 
 In the past 20 years, the orangutans have lost about two thirds of their natural habitat. Wild populations have therefore shrunk by more than 80 percent in the past 20 to 30 years. Since 2016, the International Union on the Conservation of Nature (IUCN) lists all three types of orangutans as “critically endangered." Because orangutans do fulfill a vital role within the rainforest, they are also referred to as an umbrella or key species. If they become extinct, entire ecosystems depending on them will vanish as well.  
 
