@@ -13,6 +13,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-autoprefixer
+  - jekyll-redirect-from
 
 collections:
   - sections
