@@ -3,7 +3,7 @@ email: info@bos-schweiz.ch
 description: >-
   Wer den Orang-Utan schützt, schützt den Regenwald. Wer den Regenwald schützt, schützt das Klima. Wer das Klima schützt, schützt die Erde. Wer den Orang-Utan schützt, schützt sich selbst.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://one-tree-one-life.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 google_analytics: UA-110577831-1
@@ -26,5 +26,5 @@ exclude:
   - Gemfile.lock
 
 # so I can check it on my phone:
-host: 0.0.0.0
-port: 4000
+# host: 0.0.0.0
+# port: 4000
