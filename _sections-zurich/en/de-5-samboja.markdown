@@ -9,5 +9,6 @@ In 2015, 300 hectares of rainforest around the BOS rescue and rehabilitation cen
 
 {:figure .image.right}
 ![Setzlinge](/assets/img/setzlinge.jpg){:class="img-responsive"}
+_&copy; BOS Schweiz_
 
 The Samboja Lestari forest is not home to a wild orangutan population. Instead, BOS uses the forest to prepare recued but traumatized, injured or orphaned orangutans for a life in the wild. Today, Samboja Lestari is one of the last green islands in the region which needs to be conserved. 

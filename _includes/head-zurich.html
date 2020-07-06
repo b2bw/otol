@@ -1,0 +1,23 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ site.data.translations[page.lang].fb-title}}"/>
+  <meta property="og:description" content="{{ site.data.translations[page.lang].fb-description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+  <meta property="og:image" content='{{"assets/img/otol-fb-share-2018.jpg " | absolute_url }}' />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="One Tree, One Life" />
+  <meta name="twitter:description" content="{{ site.data.translations[page.lang].twitter-description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
+  <meta name="twitter:image" content='{{"assets/img/otol-fb-share-2018.jpg " | absolute_url }}' />
+  <link rel="stylesheet" href='{{ "/assets/main.css" | relative_url }}'>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href='{{ "/feed.xml" | relative_url }}'>
+  <link rel="stylesheet" href="{{ 'js/swipe/photoswipe.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'js/swipe/default-skin/default-skin.css' | relative_url }}">
+  
+</head>

@@ -9,5 +9,6 @@ lang: fr
 
 {:figure .image.right}
 ![Setzlinge](/assets/img/setzlinge.jpg){:class="img-responsive"}
+_&copy; BOS Schweiz_
 
 La forêt de Samboja Lestari abrite une population d’orangs-outans vivant à l’état sauvage. À Samboja Lestari, les orangs-outans traumatisés, blessés et orphelins sont pris en charge puis préparés à être réintroduits dans leur milieu naturel. En outre, de nombreuses espèces animales originaires de la forêt tropicale sont revenues dans la région reboisée. Aujourd’hui, la zone située aux alentours du poste de secours de BOS à Samboja Lestari est l’une des dernières îles boisées de la région. Et il est essentiel qu’elle soit préservée.

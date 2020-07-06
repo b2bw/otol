@@ -9,7 +9,7 @@ Over thousands of years, the rainforests of Borneo have grown into some of the m
 
 {: .image.left}
 ![image-title-here](/assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
-_Quelle: Björn Vaughn, BPI_
+_&copy;Björn Vaughn, BPI_
 
 In the past 20 years, the orangutans have lost about two thirds of their natural habitat. Wild populations have therefore shrunk by more than 80 percent in the past 20 to 30 years. Since 2016, the International Union on the Conservation of Nature (IUCN) lists all three types of orangutans as “critically endangered." Because orangutans do fulfill a vital role within the rainforest, they are also referred to as an umbrella or key species. If they become extinct, entire ecosystems depending on them will vanish as well.  
 
@@ -17,6 +17,6 @@ In addition, deforestation and the associated annual peat and forest fires accel
 
 {:figure .image.right}
 ![image-title-here](/assets/img/chainsaw.jpg){:class="img-responsive"}
-_Quelle: Björn Vaughn, BPI_
+_&copy; Björn Vaughn, BPI_
 
 More than 900,000 hectares of forest and land burned across the country in summer 2019 alone. 44 percent of the affected land were valuable peat forests which store millions of tons of carbon. If peat forests are burnt or dried out, they emit four to 40 times more CO2 than forest fires in other tropical areas. For this reason, the World Bank estimates that peat and forest fires in Indonesia emitted almost twice as much CO2 into the atmosphere in 2019 than the simultaneous fires in the Amazons!

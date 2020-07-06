@@ -11,6 +11,7 @@ During the 1990s, Indonesia aimed to fight widespread hunger by establishing a s
 
 {:figure .image.left}
 ![Kanäle](/gallery/full/2019/12/15/Foto1.JPG){:class="img-responsive"}
+_&copy; Björn Vaughn, BPI_
 
 Since 2003, BOS Foundation in Indonesia has been responsible for protecting and restoring some of those destroyed areas in the Mawas region. This is critical because the Mawas conservation forest is home to more than 2,500 wild orangutans---one of the largest known wild orangutan populations in the world! 
 

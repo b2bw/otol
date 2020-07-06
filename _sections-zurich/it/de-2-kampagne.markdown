@@ -10,7 +10,7 @@ Le foreste pluviali dell’Indonesia producono buona parte dell’ossigeno neces
 
 {:figure .image.right}
 ![Angela Burri](/gallery/full/2018/01/26/IMG-20180126-WA0059.jpg){:class="img-responsive"}
-_(BOS Schweiz)_
+_&copy; (BOS Schweiz)_
 
 Nell’ambito della campagna One-Tree-One-Life, l’organizzazione BOS Schweiz – con il contributo di volontari e collaboratori della BOS Foundation in Indonesia – pianta alberi per il rimboschimento delle regioni della foresta pluviale distrutta.
 

@@ -9,7 +9,7 @@ Les forêts tropicales d’Indonésie nous fournissent de l’oxygène à nous l
 
 {:figure .image.right}
 ![Angela Burri](/gallery/full/2018/01/26/IMG-20180126-WA0059.jpg){:class="img-responsive"}
-_source: BOS Schweiz_
+_&copy; BOS Schweiz_
 
 C’est pourquoi, dans le cadre de la campagne «One-Tree-One-Life», l’association BOS Schweiz lance, avec l’aide de bénévoles et des collaborateurs de la BOS Foundation (BOSF), un plan de reboisement des zones de forêt tropicale détruites en Indonésie.
 

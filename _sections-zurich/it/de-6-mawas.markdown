@@ -9,6 +9,7 @@ Altrettanto urgente è la preservazione di una foresta palustre nell’area di M
 
 {:figure .image.left}
 ![Kanäle](/gallery/full/2019/12/15/Foto1.JPG){:class="img-responsive"}
+_&copy; BOS Schweiz_
 
 Nel corso degli ultimi 20 anni i canali hanno ampiamente prosciugato i terreni paludosi della torbiera e di conseguenza la foresta pluviale di Mawas è molto esposta agli incendi. Persiste inoltre il problema del disboscamento illegale della regione attorno al villaggio di Tuanan, dove vive una delle ultime popolazioni di grandi oranghi selvatici (poco meno di 2’550 animali).
 

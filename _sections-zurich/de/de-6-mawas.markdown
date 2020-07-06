@@ -9,6 +9,7 @@ Ebenfalls dringend erhalten werden muss ein Torfmoorregenwald im Mawas-Gebiet in
 
 {:figure .image.left}
 ![Kanäle](/gallery/full/2019/12/15/Foto1.JPG){:class="img-responsive"}
+_&copy; Björn Vaughn, BPI_
 
 Im Laufe der letzten 20 Jahre haben die Kanäle die einst feuchten Torfmoorböden weitgehend ausgetrocknet, weshalb der Mawas-Regenwald sehr anfällig für Brände ist. Weiter besteht das Problem der illegalen Abholzung in der Region rund um das Dorf Tuanan, wo eine der letzten grossen wilden Orang-Utan-Populationen lebt (knapp 2550 Tiere).
 

@@ -9,6 +9,7 @@ Auch 300 Hektare Regenwald rund um die BOS-Rettungsstation in Samboja Lestari fi
 
 {:figure .image.right}
 ![Setzlinge](/assets/img/setzlinge.jpg){:class="img-responsive"}
+_&copy; BOS Schweiz_
 
 Der Wald von Samboja Lestari beheimatet keine wilde Orang-Utan-Population. In Samboja Lestari werden aber traumatisierte, verletzte und verwaiste Orang-Utans rehabilitiert und auf ihre Auswilderung vorbereitet. Zudem sind viele der ursprünglichen Tierarten in den aufgeforsteten Regenwald zurückgekehrt. Heute ist das Gebiet rund um die BOS-Rettungsstation in Samboja Lestari eine der letzten grünen Inseln der Region. Diese gilt es zu erhalten.
 

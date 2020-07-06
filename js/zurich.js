@@ -63,13 +63,31 @@ window.addEventListener('load', function () {
 var rellax = new Rellax('.rellax');
 
 
+function getMeta(metaName) {
+  const metas = document.getElementsByTagName('meta');
+
+  for (let i = 0; i < metas.length; i++) {
+    if (metas[i].getAttribute('name') === metaName) {
+      return metas[i].getAttribute('content');
+    }
+  }
+
+  return '';
+}
+
+// console.log(getMeta('twitter:description'));
+
+
 //   social
 var twitter = function (e) {
+  const twitDesc = getMeta('twitter:description')
   e.preventDefault()
   social_url = "https://twitter.com/intent/tweet?source=webclient&text=" +
-    encodeURI(window.location + " Spende oder verschenke Bäume und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt! #OneTreeOneLife").replace(/#/g, "%23");
+    encodeURI(twitDesc + ' ' + window.location + ' #OneTreeOneLife').replace(/#/g, "%23");
   window.open(social_url, "_blank").focus();
 }
+
+ 
 
 var facebook = function (e) {
     e.preventDefault()

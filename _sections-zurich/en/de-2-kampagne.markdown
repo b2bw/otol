@@ -9,7 +9,7 @@ The Indonesian rainforests are amongst the most biodiverse in the world, they pr
 
 {:figure .image.right}
 ![Angela Burri](/gallery/full/2018/01/26/IMG-20180126-WA0059.jpg){:class="img-responsive"}
-_Source: BOS Switzerland_
+_&copy; BOS Switzerland_
 
 Through the One-Tree-One-Life-Campaign, BOS Schweiz therefore supports the reforestation of destroyed rainforest areas. The tree-planting is done by volunteers as well as local communities and employees of BOS Foundation in Borneo, Indonesia.
 

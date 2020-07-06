@@ -10,7 +10,7 @@ Für uns Menschen liefern die Regenwälder Indonesiens Sauerstoff und regeln uns
 
 {:figure .image.right}
 ![Angela Burri](/gallery/full/2018/01/26/IMG-20180126-WA0059.jpg){:class="img-responsive"}
-_Quelle: BOS Schweiz_
+_&copy; BOS Schweiz_
 
 Im Rahmen der One-Tree-One-Life-Kampagne forstet BOS Schweiz deshalb gemeinsam mit Freiwilligen sowie Mitarbeitenden der BOS Foundation in Indonesien zerstörte Regenwaldgebiete wieder auf.
 

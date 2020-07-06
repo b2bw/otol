@@ -9,6 +9,7 @@ Tout aussi urgent : la protection d’une forêt tourbeuse dans la région de Ma
 
 {:figure .image.left}
 ![Kanäle](/gallery/full/2019/12/15/Foto1.JPG){:class="img-responsive"}
+_&copy; BOS Schweiz_
 
 Au cours des 20 dernières années, les canaux de drainage ont asséché les sols autrefois tourbeux, fragilisant la forêt primaire de Mawas en la rendant particulièrement vulnérable aux incendies. L’autre problème est la déforestation illégale dans la région aux alentours du village de Tuanan, où vit l’une des dernières grandes populations d’orangs-outans sauvages (près de 2550 animaux).
 
