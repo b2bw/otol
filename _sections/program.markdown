@@ -1,16 +1,22 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**25. Juli 2020: Aktueller Spendenstand: 72'018.15**
+
+Bis zum Ende der 3. Kampagnenrunde im Herbst 2020 geben wir noch einmal Gas und bedanken uns bei allen, die die One-Tree-One-Life-Kampagne bis dato unterstützt haben.  Nach wie vor hoffen wir darauf, am Ende dieser Runde, mit der Hilfe unserer Sponsoren und mit Eurer Unterstützung Bäume und Setzlinge im Wert von 100'000 Franken spenden zu können. Hilfreich könnte da unsere neue PR- und Fundraising-Partnerin sein: Die Zürich Versicherungsgesellschafts AG. Willkommen an Bord!
+
+Wer selber als Volontär oder Volontärin in die BOS-Rettungsstation Samboja Lestari reisen möchte, der hat ab November 2019 bis Ende März 2021 die Chance dazu. In diesem Zeitraum bietet unsere Partnerorganisation BOS Australien mehrere Reisen an - insofern es Corona zulässt. Bei Interesse einfach melden unter info@bos-schweiz.ch.
+
 **24. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
 
 Die BOS Foundation hat die Samboja Lodge und alle Rettungszentren mittlerweile für Besucher*innen geschlossen. Es gelten verschärfte Hygienevorschriften, denn zu gross ist die Gefahr, dass sich auch die Orang-Utans und BOS-Mitarbeitenden mit dem Virus anstecken könnten.
 
-Vor uns liegen ungewisse Zeiten, denn mit Sicherheit werden die Spendeneinnahmen einbrechen. **Bitte lasst uns jetzt nicht im Stich und spendet weiter für den Orang-Utan und Regenwaldschutz!** Der Bedarf für finanzielle Unterstützung wächst in der Krise und beide Anliegen haben nichts an ihrer Dringlichkeit und Bedeutung eingebüsst. Die **One-Tree-One-Life-Kampagne läuft weiter bis in den Herbst 2020**, wenn wir hoffentlich in eine neue Runde starten!
+Vor uns liegen ungewisse Zeiten, denn mit Sicherheit werden die Spendeneinnahmen einbrechen. **Bitte lasst uns jetzt nicht im Stich und spendet weiter für den Orang-Utan und Regenwaldschutz!** Der Bedarf für finanzielle Unterstützung wächst in der Krise und beide Anliegen haben nichts an ihrer Dringlichkeit und Bedeutung eingebüsst. Die **3. Runde** **One-Tree-One-Life-Kampagne läuft weiter bis in den Herbst 2020.** Im Abschluss starten wir dann hoffentlich in eine neue 4. Runde!
 
 **23. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
 
