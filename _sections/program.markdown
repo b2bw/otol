@@ -1,5 +1,5 @@
 ---
-order: "5"
+order: 5
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
