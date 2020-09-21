@@ -1,8 +1,10 @@
 ---
+- name: 'Acrolama '
+  link: https://www.acrolama.com/
+- name: Asia 365
+  link: http://www.asia365.ch/
 - name: falter.design
   link: https://www.falter.design
-- name: Gutblick AG
-  link: https://www.gutblick.ch/de/
 - name: Waldelbe Wovens
   link: https://web.facebook.com/waldelbewovens/
 - name: rubrik
@@ -13,8 +15,6 @@
   link: https://www.lush.ch/startseite.aspx
 - name: Custom Campers
   link: https://customcampers.com/
-- name: Alternate Notes
-  link: https://alternate-notes.ch/
 - name: Spalentor Optik GmbH
   link: https://www.spalentor-optik.ch
 - name: Milo Interieur
@@ -23,22 +23,14 @@
   link: https://livisionled.ch
 - name: Carbon Connect
   link: https://www.carbon-connect.ch/
-- name: Green Things
-  link: https://www.greenthings.ch
-- name: HEALFIT LIFESTYLE
-  link: https://healfit.ch
 - name: Outdoorland AG
   link: https://www.outdoorland.ch
 - name: Weita AG
   link: https://www.weita.ch/de/home.htm
 - name: mimi + bob
   link: https://www.mimiundbob.ch/
-- name: Bimbosan AG
-  link: https://bimbosan.ch/
 - name: NIKIN
   link: https://www.nikin.ch/
-- name: Asia 365
-  link: http://www.asia365.ch/
 - name: Niles
   link: http://niles.ch
 - name: Pastiche
