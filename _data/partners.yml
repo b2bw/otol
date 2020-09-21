@@ -1,10 +1,14 @@
 ---
-- name: Hoi Laden
-  link: https://hoi-laden.li/
+- name: Marti Dach + Solar
+  link: http://www.martidach.ch/
 - name: 'Acrolama '
   link: https://www.acrolama.com/
 - name: Asia 365
   link: http://www.asia365.ch/
+- name: Custom Campers
+  link: https://customcampers.com/
+- name: Hoi Laden
+  link: https://hoi-laden.li/
 - name: falter.design
   link: https://www.falter.design
 - name: Waldelbe Wovens
@@ -15,8 +19,6 @@
   link: https://www.haudejacobian.ch/
 - name: Lush Schweiz
   link: https://www.lush.ch/startseite.aspx
-- name: Custom Campers
-  link: https://customcampers.com/
 - name: Spalentor Optik GmbH
   link: https://www.spalentor-optik.ch
 - name: Milo Interieur
