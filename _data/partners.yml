@@ -1,61 +1,61 @@
 ---
-- name: Dachzelthimmel
-  link: https://www.dachzelthimmel.ch/
-- name: HABITPOT
-  link: https://habitpot.com/
-- name: MAVIE Infinity Key
-  link: https://mavie-infinitykey.com/
-- name: SILC Tattoo
-  link: https://silctattoo.com/en/home-2/
-- name: Merz Pharma (Schweiz) AG
-  link: https://www.merz.ch/
-- name: Filabé of Switzerland AG
-  link: https://www.filabe.ch/
-- name: Sport Trend Shop AG
-  link: https://www.sport-trend-shop.ch/
-- name: Beosolar
-  link: https://www.beosolar.ch/de/
-- name: SPIESS Energie + Haustechnik
-  link: https://www.spiessag.com/de/
-- name: Marti Dach + Solar
-  link: http://www.martidach.ch/
 - name: 'Acrolama '
   link: https://www.acrolama.com/
 - name: Asia 365
   link: http://www.asia365.ch/
-- name: Custom Campers
-  link: https://customcampers.com/
-- name: Hoi Laden
-  link: https://hoi-laden.li/
-- name: falter.design
-  link: https://www.falter.design
-- name: Waldelbe Wovens
-  link: https://web.facebook.com/waldelbewovens/
-- name: rubrik
-  link: https://www.rubrik.com/de/
-- name: haudejacobian
-  link: https://www.haudejacobian.ch/
-- name: Lush Schweiz
-  link: https://www.lush.ch/startseite.aspx
-- name: Spalentor Optik GmbH
-  link: https://www.spalentor-optik.ch
-- name: Milo Interieur
-  link: https://milointerieur.ch/
-- name: Livision
-  link: https://livisionled.ch
+- name: Beosolar
+  link: https://www.beosolar.ch/de/
 - name: Carbon Connect
   link: https://www.carbon-connect.ch/
-- name: Outdoorland AG
-  link: https://www.outdoorland.ch
-- name: Weita AG
-  link: https://www.weita.ch/de/home.htm
+- name: Custom Campers
+  link: https://customcampers.com/
+- name: Dachzelthimmel
+  link: https://www.dachzelthimmel.ch/
+- name: falter.design
+  link: https://www.falter.design
+- name: Filabé of Switzerland AG
+  link: https://www.filabe.ch/
+- name: HABITPOT
+  link: https://habitpot.com/
+- name: haudejacobian
+  link: https://www.haudejacobian.ch/
+- name: Hoi Laden
+  link: https://hoi-laden.li/
+- name: Livision
+  link: https://livisionled.ch
+- name: Lush Schweiz
+  link: https://www.lush.ch/startseite.aspx
+- name: Marti Dach + Solar
+  link: http://www.martidach.ch/
+- name: MAVIE Infinity Key
+  link: https://mavie-infinitykey.com/
+- name: Merz Pharma (Schweiz) AG
+  link: https://www.merz.ch/
+- name: Milo Interieur
+  link: https://milointerieur.ch/
 - name: mimi + bob
   link: https://www.mimiundbob.ch/
 - name: NIKIN
   link: https://www.nikin.ch/
 - name: Niles
   link: http://niles.ch
+- name: Outdoorland AG
+  link: https://www.outdoorland.ch
 - name: Pastiche
   link: http://pastiche.io
+- name: rubrik
+  link: https://www.rubrik.com/de/
+- name: SILC Tattoo
+  link: https://silctattoo.com/en/home-2/
+- name: Spalentor Optik GmbH
+  link: https://www.spalentor-optik.ch
+- name: SPIESS Energie + Haustechnik
+  link: https://www.spiessag.com/de/
+- name: Sport Trend Shop AG
+  link: https://www.sport-trend-shop.ch/
+- name: Waldelbe Wovens
+  link: https://web.facebook.com/waldelbewovens/
+- name: Weita AG
+  link: https://www.weita.ch/de/home.htm
 - name: 200ok
   link: https://200ok.ch
