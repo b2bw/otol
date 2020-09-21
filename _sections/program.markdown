@@ -1,16 +1,18 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-**25. Juli 2020: Aktueller Spendenstand: 72'018.15**
+**21. September 2020: Aktueller Spendenstand: 105 642.01 Franken**
 
-Bis zum Ende der 3. Kampagnenrunde im Herbst 2020 geben wir noch einmal Gas und bedanken uns bei allen, die die One-Tree-One-Life-Kampagne bis dato unterstützt haben.  Nach wie vor hoffen wir darauf, am Ende dieser Runde, mit der Hilfe unserer Sponsoren und mit Eurer Unterstützung Bäume und Setzlinge im Wert von 100'000 Franken spenden zu können. Hilfreich könnte da unsere neue PR- und Fundraising-Partnerin sein: Die Zürich Versicherungsgesellschafts AG. Willkommen an Bord!
+Wir haben bereits **über 100 000 Franken** für unsere Aufforstungsprojekte auf Borneo gesammelt, was für ein toller Erfolg! Für den grossen "Gump" in den sechsstelligen Bereich bedanken wir uns an dieser Stelle herzlich beim Schweizer Modelabel **Nikin,** das mit seiner Spende in Höhe von **20 000 Franken** zu dieser stolzen Summe beigetragen hat. Bis zum Abschluss der 3. Kampagnenrunde Ende 2020 geben wir noch einmal Gas und bedanken uns bei allen, die die One-Tree-One-Life-Kampagne bis dato unterstützt haben. Wir hoffen darauf, bis zum Ende dieser Runde mit der Hilfe unserer Sponsoren und mit Eurer Unterstützung das Geld für weitere **3000 Bäume** sammeln zu können.
 
-Wer selber als Volontär oder Volontärin in die BOS-Rettungsstation Samboja Lestari reisen möchte, der hat ab November 2019 bis Ende März 2021 die Chance dazu. In diesem Zeitraum bietet unsere Partnerorganisation BOS Australien mehrere Reisen an - insofern es Corona zulässt. Bei Interesse einfach melden unter info@bos-schweiz.ch.
+**25. Juli 2020: Aktueller Spendenstand: 72 018.15**
+
+Unser nächstes Ziel sind die 100 000 Franken! Gemeinsam mit der Hilfe unserer Sponsoren und Partnern sowie eurer Unterstützung können wir es schaffen. Hilfreich könnte da unsere neue PR- und Fundraising-Partnerin sein: Die Zürich Versicherungsgesellschafts AG. Willkommen an Bord!
 
 **24. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
 
@@ -42,7 +44,7 @@ Hier zwei kleine O-Ton-Berichte von Petra. Während der letzten zwei Wochen in S
 
 Jeder von uns durfte mal mit Sam auf das Boot und ihn beim Füttern der Orang-Utans begleiten. Die Orang-Utans kamen sofort ans Ufer, um ihr Essen zu holen. So hatte man die Möglichkeit, sie von ganz nahe zu beobachten. Einmal pflanzten wir Bäume. Wir waren schnell fertig, da es leider nur noch ein paar Setzlinge übrig hatte“.
 
-**9. März 2020:** Aktueller Spendenstand: knapp **57'500 Franken!**
+**9. März 2020:** Aktueller Spendenstand: knapp **57 500 Franken!**
 
 Wir danken heute besonders **LUSH Schweiz** für die grosszüge Unterstützung! Seit Ende letzten Jahres fliessen die gesamten Einnahmen aus dem Verkauf von Papiertragetaschen durch LUSH Schweiz in unsere Aufforstungskampagne. Die erste stolze Summe von **3859 Franken** ist gerade eben eingetroffen.
 
