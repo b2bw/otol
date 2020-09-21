@@ -1,5 +1,5 @@
 ---
-order: "3"
+order: 3
 include: sections/reverse.html
 title: Wie alles begann
 anchor: ursprung
