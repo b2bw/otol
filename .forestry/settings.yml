@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _sections-zurich
-  label: Sections-zurich
-  create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
@@ -23,6 +18,11 @@ sections:
 - type: directory
   path: _sections-kuratle
   label: Sections-kuratle
+  create: all
+  match: "**/*"
+- type: directory
+  path: _sections-zurich
+  label: Sections-zurich
   create: all
   match: "**/*"
 - type: directory
