@@ -1,4 +1,8 @@
 ---
+- path: "/2020/10/28/otol_aufforstung_copyright_bjoern_vaughn_bpi.jpg"
+  width: '800'
+  height: '450'
+  preview: true
 - path: "/2020/03/24/IMG-20200324-WA0003.jpg"
   width: '600'
   height: '800'
@@ -46,7 +50,7 @@
 - path: "/2020/02/23/IMG-20200220-WA0000.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/zweiter_upload (2).jpg"
   width: '600'
   height: '800'
@@ -260,6 +264,10 @@
   width: '800'
   height: '497'
   preview: false
+- path: "/2020/02/23/übergabe_medis-1.jpg"
+  width: '800'
+  height: '600'
+  preview: false
 - path: "/2020/02/23/zweiter_upload (7).jpg"
   width: '800'
   height: '600'
@@ -267,10 +275,6 @@
 - path: "/2020/02/23/zweiter_upload (6).jpg"
   width: '600'
   height: '800'
-  preview: false
-- path: "/2020/02/23/übergabe_medis-1.jpg"
-  width: '800'
-  height: '600'
   preview: false
 - path: "/2020/02/23/zweiter_upload (18).jpg"
   width: '600'
