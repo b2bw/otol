@@ -1,5 +1,5 @@
 ---
-order: "0"
+order: 0
 title: Le meilleur moment pour planter un arbre, c'est maintenant ! 
 anchor: intro
 date: 2018-08-13T13:08:13.000+00:00
