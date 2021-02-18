@@ -1,7 +1,7 @@
 ---
 order: 2
 include: sections/reverse.html
-title: Wo wir aufforsten
+title: Wo wir Regenwald aufforsten und schützen
 date: 2019-12-14T23:00:00.000+00:00
 anchor: projekte
 
@@ -30,4 +30,14 @@ Im Laufe der letzten 20 Jahre haben die Kanäle die einst feuchten Torfmoorböde
 
 Im Rahmen des Tuanan Projektes und einem ähnlichen Vorhaben ebenfalls in der Mawas-Region (dem SOS Borneo Projekt) verschliessen wir die ehemaligen Entwässerungskanäle und bilden Brandschutz-Teams aus. Der Torfmoorboden wird renaturiert und dann wieder aufgeforstet. In eigenen Baumschulen werden Setzlinge gezogen und von lokalen Kräften auch gepflanzt. Begleitende Mikrokreditprojekte schaffen alternative Einkommensquellen zur illegalen Abholzung und zur Wilderei.
 
-Seit 2016 wurden im Rahmen des [SOS Borneo Projektes](https://www.bos-schweiz.ch/de/regenwald/sos-borneo.htm) über 130000 Setzlinge gezogen, mehr als 104 Hektare aufgeforstet und Kanäle mit einer Länge von mindestens knapp 60 km verschlossen. Das Tuanan Projekt ist gerade angelaufen und wird zunächst ein 50 Hektare grosses Gebiete aufforsten. Mindestens weitere 350 Hektare stehen zur Aufforstung allein in Tuanan zur Verfügung.
+Seit 2016 wurden im Rahmen des [SOS Borneo Projektes](https://www.bos-schweiz.ch/de/regenwald/sos-borneo.htm) über 130000 Setzlinge gezogen, mehr als 104 Hektare aufgeforstet und Kanäle mit einer Länge von mindestens knapp 60 km verschlossen. Das Tuanan Projekt ist 2019 angelaufen und wird zunächst ein 50 Hektare grosses Gebiete aufforsten. Mindestens weitere 350 Hektare stehen zur Aufforstung allein in Tuanan zur Verfügung.
+
+**Aktiver Regenwaldschutz, Zentral- und Ost-Kalimantan**  
+
+Nebst der Renaturierung und Aufforstung zerstörter Waldgebiete leistet BOS v.a. auch  aktiven Regenwaldschutz intakter und sehr wertvoller Wälder. Zum einen unterhält und verwaltet die BOS Foundation ein **eigenes Waldgebiet**, das sie für Auswilderungen nutzt. Der Wald von **Kehje Sewen** ist 86'594 Hektare gross - und damit doppelt so gross wie Singapur! Das fast unberührte Regenwaldgebiet in Ost-Kalimantan wird über Generationen von der BOS Foundation als sogenannte Ecosystem Restoration Concession verwaltet, d.h. für Naturschutzzwecke genutzt. Mehrere Camps zur Überwachung der dort ausgewilderten Tiere wurden hier aufgebaut. Durch diese Präsenz sorgt BOS für den Schutz der Orang-Utans und des Waldes. Eine Erweiterung des Auswilderungsgebietes ist geplant. Sie soll Kehje Sewen mit nördlich gelegenen Nationalparks über einen Korridor verbinden, der es den Orang-Utans erlaubt, dorthin abzuwandern.
+
+Mehrere **Nationalparks in Zentral- und Ost-Kalimantan** werden ebenfalls von BOS für Auswilderungen genutzt. Die dort angesiedelten Orang-Utans werden vom Post-Release-Monitoring Team der BOS Foundation überwacht und somit auch ihr Lebensraum gegen Wilderei und Abholzung geschützt. 
+
+Im **Mawas-Gebiet in Zentral-Kalimantan** unterhält und verwaltet die BOS Foundation ein weiteres, 309'000 Hektare grosses, Regenwaldgebiet. Der Wald beheimatet knapp 2'550 wilde Orang-Utans. Ihn zu erhalten und zu schützten ist von enormer Bedeutung für den Artenschutz!
+
+**Insgesamt stehen heute knapp 460'680 Hektare, d.h. 4'606 Quadratkilometer intakter und sehr wertvoller Regenwald unter dem Schutz der BOS Foundation!** 
