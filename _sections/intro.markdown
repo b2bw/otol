@@ -1,5 +1,5 @@
 ---
-order: "0"
+order: 0
 include: sections/normal.html
 title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
 date: 2018-01-02T15:16:24.000+00:00
