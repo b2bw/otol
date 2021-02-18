@@ -1,7 +1,7 @@
 ---
 order: 4
 include: sections/alternate.html
-title: Wer 2019/2020 mit uns aufforstet
+title: Wer 2019/2020 mit uns aufforstete
 date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
 
