@@ -1,5 +1,5 @@
 ---
-order: 0
+order: "0"
 include: sections/normal.html
 title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
 date: 2018-01-02T15:16:24.000+00:00
@@ -14,4 +14,4 @@ anchor: intro
 
 {% include donate-group.html buttons=site.data.donate_buttons.main_raisenow %}
 
-Mit Deiner Spende unterstützt Du die Renaturierung und Aufforstung von zerstörten Regenwaldgebieten, den Erwerb, Unterhalt und Schutz von BOS-eigenen, intakten Waldgebieten, die Arbeit in den BOS-Rettungsstationen in Indonesien sowie die Arbeit von BOS Schweiz im Bereich Regenwaldschutz. Erfahre mehr zu diesen Vorhaben und zur begleitenden BOS Schweiz-Volontärreise!
+Mit Deiner Spende unterstützt Du die Renaturierung und Aufforstung von zerstörten Regenwaldgebieten, den Erwerb und Unterhalt von BOS-eigenen Schutzgebieten, die Arbeit in den BOS-Rettungsstationen in Indonesien sowie die Arbeit von BOS Schweiz im Bereich Regenwaldschutz. Erfahre mehr zu diesen Vorhaben und zur begleitenden BOS Schweiz-Volontärreise!
