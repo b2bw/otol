@@ -1,12 +1,12 @@
 ---
-order: 0
+order: "0"
 title: Il momento migliore per piantare un albero è adesso! 
 anchor: intro
 date: 2018-08-13T13:08:13.000+00:00
 lang: it
 
 ---
-Se si segnala il sinistro et rivolgendovi all’Help Point per la riparazione del vostro veicolo, date un duplice contributo alla salvaguardia dell’ambiente: tramite la propria rete, la Zurigo Compagnia di Assicurazioni SA organizza la riparazione con i metodi più moderni ed efficienti nell’uso delle risorse e coltiva una piantina – nell'ambito della campagna “One-Tree-One-Life” della Borneo Orangutan Survival Association (BOS) Schweiz – d’albero nel Borneo, in Indonesia.
+Se segnalate il sinistro rivolgendovi all’Help Point per la riparazione del vostro veicolo, date un duplice contributo alla salvaguardia dell’ambiente: tramite la propria rete, la Zurigo Compagnia di Assicurazioni SA organizza la riparazione con i metodi più moderni ed efficienti nell’uso delle risorse e coltiva una piantina – nell'ambito della campagna “One-Tree-One-Life” della Borneo Orangutan Survival Association (BOS) Schweiz – d’albero nel Borneo, in Indonesia.
 
 ![Forest](/assets/img/intro_forest.jpg){:class="img-responsive"}
 
