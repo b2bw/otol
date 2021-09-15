@@ -6,7 +6,9 @@ date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-Runde III der One-Tree-One-Life-Kampagne startete im Herbst 2020 und endete im Spätsommer 2021 mit einem Spendenstand von knapp 150'000 Franken! **Ab Oktober 2021 wagen wir uns in Runde IV - trotz aller Corona-bedingten Schwierigkeiten.** Eine Volontärreise ist aktuell undenkbar. Die Rettungsstationen sind nach wie vor für Aussenstehende geschlossen. Umso mehr sind wir auf Deine Unterstützung für unsere Aufforstungsvorhaben angewiesen - denn trotz Corona pflanzen und schützten wir weiter Regenwald. **Bitte hilf uns mit Deiner Spende!** 
+**Runde III der One-Tree-One-Life-Kampagne** startete im Herbst 2020 und **endet nun nach einem Jahr mit einem grandiosen Spendenstand von knapp 150'000 Franken!** Herzlichen Dank an alle, die Bäume gespendet haben! 
+
+**Ab Oktober 2021 wagen wir uns in Runde IV - trotz aller Corona-bedingten Schwierigkeiten.** Eine Volontärreise ist aktuell undenkbar. Die Rettungsstationen sind nach wie vor für Aussenstehende geschlossen. Umso mehr sind wir auf Deine Unterstützung für unsere Aufforstungsvorhaben angewiesen - denn trotz Corona pflanzen und schützten wir weiter Regenwald. **Bitte hilf uns mit Deiner Spende!** 
 
 Einen Rückblick der letzten Volontärreise findet sich hier:   
 
