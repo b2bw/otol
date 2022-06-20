@@ -6,7 +6,7 @@ date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
 
 ---
-Das **15-köpfige Team**, das im Februar und März 2020 für 2 bis 4 Wochen nach Borneo reiste, setzte sich aus den jungen Wilden, einer erfahrenen Garde und einer erweiterten, Orang-Utan- und Regenwald-verrückten Familie zusammen. Hier einige O-Töne zur Motivation:
+Das **15-köpfige Team**, das zuletzt (d.h. im Februar und März 2020) für 2 bis 4 Wochen mit uns nach Borneo reiste, setzte sich aus den jungen Wilden, einer erfahrenen Garde und einer erweiterten, Orang-Utan- und Regenwald-verrückten Familie zusammen. Hier einige O-Töne zur Motivation:
 
 {: .image.left}
 
