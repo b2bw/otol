@@ -7,5 +7,5 @@ echo '  5. bundle exec jekyll serve'
 echo
 
 alias rebuild-gallery='rm uploads.idx; touch uploads.idx; rm -rf gallery; ./process_all.sh'
-alias check-order="ack ^order:"
+alias check-order='ack ^order: \"'
 alias trigger-page-build="git pull; git commit -m 'trigger page build' --allow-empty && git push"
