@@ -18,4 +18,4 @@ Unser Team in Runde III wurde von Thomas Kamm (BOS Schweiz-Gründungsmitglied un
 
 Im Anschluss schlug die **Corona-Krise** mit voller Wucht zu. Volontärreisen waren undenkbar. Die Rettungsstationen blieben für Aussenstehende geschlossen. Trotzdem wurden unsere Aufforstungsvorhaben weitergeführt und wir konnten - trotz Corona und dank eurer treuen Unterstützung - weiter Regenwald schützen.
 
-**Jetzt starten wir erneut durch! Die One-Tree-One-Life-Kampagne geht im Herbst 2022 in eine vierte Runde.** Nach der langen Corona-Durchstrecke wird sie endlich wieder **in Kombination mit einer Volontärreise Anfang 2023** stattfinden. **Bitte hilf uns mit deiner Spende oder melde dich unter info@bos-schweiz.ch, falls Du Interesse hast, mit uns zu reisen.**
+**Jetzt starten wir erneut durch! Die One-Tree-One-Life-Kampagne geht im Herbst 2022 in eine vierte Runde.** Nach der langen Corona-Durststrecke soll sie endlich wieder **in Kombination mit einer Volontärreise Anfang 2023** stattfinden. **Bitte hilf uns mit deiner Spende oder melde dich unter info@bos-schweiz.ch, falls Du Interesse hast, mit uns zu reisen.**
