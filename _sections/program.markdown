@@ -6,12 +6,6 @@ date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-Runde III der One-Tree-One-Life-Kampagne startete im Herbst 2020 und endete im Spätsommer 2021 mit einem grandiosen **Spendenstand** von **knapp 150'000 Franken!** 
-
-**Ab Oktober 2021 wagen wir uns in Runde IV - trotz aller Corona-bedingten Schwierigkeiten.** Eine Volontärreise ist aktuell undenkbar. Die Rettungsstationen sind nach wie vor für Aussenstehende geschlossen. Umso mehr sind wir auf Deine Unterstützung für unsere Aufforstungsvorhaben angewiesen - denn trotz Corona pflanzen und schützten wir weiter Regenwald. **Bitte hilf uns mit Deiner Spende!**
-
-Einen Rückblick der letzten Volontärreise findet sich hier:
-
 **21. September 2020: Aktueller Spendenstand: 105 642.01 Franken**
 
 Wir haben bereits **über 100 000 Franken** für unsere Aufforstungsprojekte auf Borneo gesammelt, was für ein toller Erfolg! Für den grossen "Gump" in den sechsstelligen Bereich bedanken wir uns an dieser Stelle herzlich beim Schweizer Modelabel **Nikin,** das mit seiner Spende in Höhe von **20 000 Franken** zu dieser stolzen Summe beigetragen hat. Bis zum Abschluss der 3. Kampagnenrunde Ende 2020 geben wir noch einmal Gas und bedanken uns bei allen, die die One-Tree-One-Life-Kampagne bis dato unterstützt haben. Wir hoffen darauf, bis zum Ende dieser Runde mit der Hilfe unserer Sponsoren und mit Eurer Unterstützung das Geld für weitere **3000 Bäume** sammeln zu können.
