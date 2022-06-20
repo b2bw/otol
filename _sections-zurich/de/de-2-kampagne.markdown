@@ -1,5 +1,5 @@
 ---
-order: "1"
+order: 1
 include: sections/normal.html
 title: Die One-Tree-One-Life-Kampagne
 anchor: kampagne

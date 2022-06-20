@@ -1,5 +1,5 @@
 ---
-order: "0"
+order: 0
 title: The best time to plant a tree is now!
 anchor: intro
 date: 2018-08-13T13:08:13.000+00:00
