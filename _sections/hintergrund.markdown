@@ -1,17 +1,17 @@
 ---
-order: 1
+order: "1"
 include: sections/reverse.html
 title: Warum wir aufforsten und den Regenwald schützen
 anchor: hintergrund
 
 ---
-Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzunion (IUCN) als „akut vom Aussterben bedroht“ geführt. International wie national stehen sie deshalb unter strengem Schutz. Ihr Lebensraum in der Regel aber nicht. Das Überleben der Letzten dieser Art kann deshalb nur gelingen, wenn wir den Regenwald bewahren: Nur wenn wir ihn retten, retten wir die Orang-Utans und mit ihnen zahlreiche andere gefährdete und endemische Arten.
+Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzunion (IUCN) als „akut vom Aussterben bedroht“ geführt. International wie national stehen sie deshalb unter strengem Schutz. Ihr Lebensraum in der Regel aber nicht. Das Überleben der Letzten dieser Art kann deshalb nur gelingen, wenn wir den Regenwald bewahren.
 
 {: .image.left}
 ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
 _Quelle: Björn Vaughn, BPI_
 
-Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des Indonesischen Dschungels. Über Jahrtausende gewachsen, zählen diese Wälder zu den artenreichsten der Welt. Doch in wenigen Minuten werden die Urwaldriesen gefällt. In Sekunden werden enorme Flächen brandgerodet, um unseren wachsenden Hunger nach Kohle, Tropenholz oder Palmöl zu stillen. Plantagen entstehen, soweit das Auge reicht. Dieser massive Eingriff in die Natur vernichtet den natürlichen Lebensraum der Orang-Utans. Ganze Ökosysteme hängen von dieser Schlüsselart ab und gehen mit ihr zu Grunde.
+Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des indonesischen Dschungels. Über Jahrtausende gewachsen, zählen diese Wälder zu den artenreichsten der Welt. Doch in wenigen Minuten werden die Urwaldriesen gefällt. In Sekunden werden enorme Flächen brandgerodet, um unseren wachsenden Hunger nach Kohle, Tropenholz oder Palmöl zu stillen. Plantagen entstehen, soweit das Auge reicht. Dieser massive Eingriff in die Natur vernichtet den natürlichen Lebensraum der Orang-Utans. Ganze Ökosysteme hängen von dieser Schlüsselart ab und gehen mit ihr zu Grunde.
 
 {:figure .image.right}
 ![image-title-here](assets/img/chainsaw.jpg){:class="img-responsive"}
@@ -21,7 +21,7 @@ In den letzten 20 Jahren haben die Orang-Utans 55 Prozent ihres natürlichen Leb
 
 Doch nicht nur die Biodiversität ist bedroht. Grossflächige Brandrodungen und die damit einhergehenden alljährlichen Wald- und Torfbrände beschleunigen auch den Klimawandel und gefährden die Gesundheit von Millionen Menschen.
 
-Mehr als 900000 Hektare Wald und Land verbrannten landesweit allein im Sommer 2019. 44 Prozent davon waren wertvolle Torfmoorwälder. Sie binden Unmengen Kohlenstoff. Brennen Torfmoorwälder, setzten sie vier bis 40-mal mehr CO2 frei, als Waldbrände in anderen tropischen Gebieten. Aus diesem Grund gelangte laut Weltbank durch die Wald- und Torfbrände in Indonesien 2019 fast doppelt so viel CO2 in die Atmosphäre, als bei gleichzeitigen Brände im Amazonas!
+Mehr als 900000 Hektare Wald und Land verbrannten landesweit allein im Sommer 2019. 44 Prozent davon waren wertvolle Torfmoorwälder. Sie binden Unmengen Kohlenstoff. Brennen Torfmoorwälder, setzten sie vier bis 40-mal mehr CO2 frei, als Waldbrände in anderen tropischen Gebieten. Aus diesem Grund gelangte laut Weltbank durch die Wald- und Torfbrände in Indonesien 2019 fast doppelt so viel CO2 in die Atmosphäre, als bei den gleichzeitigen Brände im Amazonas!
 
 {:figure .image.left}
 ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
