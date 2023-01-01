@@ -1,5 +1,5 @@
 ---
-order: "6"
+order: 6
 include: sections/normal.html
 title: Wer wir sind
 anchor: traegerorganisation

@@ -1,5 +1,5 @@
 ---
-order: "1"
+order: 1
 include: sections/reverse.html
 title: Warum wir aufforsten und den Regenwald schützen
 anchor: hintergrund
