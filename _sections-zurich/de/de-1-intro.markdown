@@ -1,5 +1,5 @@
 ---
-order: "0"
+order: 0
 title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
 anchor: intro
 date: 2018-08-13T13:08:13.000+00:00
@@ -12,6 +12,6 @@ Wenn Sie Ihren Schaden online melden und Ihr Fahrzeug über den Zurich Help Poin
 
 Nachhaltigkeit ist ein zentraler Schwerpunkt der Arbeit der Zürich Versicherungs-Gesellschaft AG. Deshalb engagiert sie sich gemeinsam mit BOS Schweiz für die Aufforstung von Regenwäldern. Hier erfahren Sie mehr zu dieser Partnerschaft für den Klimaschutz.
 
-Sie möchten selber aktiv werden? Dann spenden oder verschenken Sie jetzt Bäume. Auf Wunsch erhalten Sie zu Ihrer Spende bzw. Ihrem Geschenk eine wunderschöne **Graspapier-Urkunde** oder ein **digitales Zertifikat**. Erleben Sie, wie unser gemeinsames Engagement auf Borneo Wurzeln schlägt! 
+Sie möchten selber aktiv werden? Dann spenden oder verschenken Sie jetzt Bäume. Auf Wunsch erhalten Sie zu Ihrer Spende bzw. Ihrem Geschenk eine wunderschöne **Graspapier-Urkunde** oder ein **digitales Zertifikat**. Erleben Sie, wie unser gemeinsames Engagement auf Borneo Wurzeln schlägt!
 
 {% include donate-group-zurich.html buttons=site.data.donate_buttons.zurich_paypal.de %}
