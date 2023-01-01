@@ -4,6 +4,7 @@ include: sections/alternate.html
 title: Wer 2019/2020 mit uns aufforstete
 date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
+published: false
 
 ---
 Das **15-köpfige Team**, das zuletzt (d.h. im Februar und März 2020) für 2 bis 4 Wochen mit uns nach Borneo reiste, setzte sich aus den jungen Wilden, einer erfahrenen Garde und einer erweiterten, Orang-Utan- und Regenwald-verrückten Familie zusammen. Hier einige O-Töne zur Motivation:
