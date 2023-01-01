@@ -1,0 +1,16 @@
+---
+label: Kuratle
+hide_body: false
+fields:
+- type: number
+  name: order
+  label: order
+- type: text
+  name: title
+  label: title
+- type: text
+  name: anchor
+  label: anchor
+- type: datetime
+  name: date
+  label: date
