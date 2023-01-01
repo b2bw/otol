@@ -1,5 +1,5 @@
 ---
-order: "3"
+order: 3
 include: sections/reverse.html
 title: Wie es 2023 weiter geht
 anchor: ursprung
