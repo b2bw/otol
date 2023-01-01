@@ -177,24 +177,29 @@ main_paypal:
 main_raisenow:
 - label: 1 Baum - CHF 7.65 *
   icon: tree-small
-  message: OneTreeOneLife
-  amount: "700"
+  # message: OneTreeOneLife
+  # amount: "700"
+  url: https://www.bos-schweiz.ch/de/helfen/spenden/baeume-spenden.htm
   class: cta-button gift
 - label: 5 Bäume - CHF 38.25 *
   icon: tree-medium
-  message: OneTreeOneLife
-  amount: "3800"
+  # message: OneTreeOneLife
+  # amount: "3800"
+  url: https://www.bos-schweiz.ch/de/helfen/spenden/baeume-spenden.htm
   class: cta-button gift
 - label: 10 Bäume - CHF 76.50 *
   icon: tree-large
-  message: OneTreeOneLife
-  amount: "7600"
+  # message: OneTreeOneLife
+  # amount: "7600"
+  url: https://www.bos-schweiz.ch/de/helfen/spenden/baeume-spenden.htm
   class: cta-button gift
 - label: beliebiger Betrag
   icon: sprout3
-  message: OneTreeOneLife
+  # message: OneTreeOneLife
+  url: https://www.bos-schweiz.ch/de/helfen/spenden/baeume-spenden.htm
   class: cta-button gift
 - label: Bäume mit Urkunde verschenken
   icon: gift-solid
-  message: OneTreeOneLife_MitUrkunde
+  # message: OneTreeOneLife_MitUrkunde
+  url: https://www.bos-schweiz.ch/de/helfen/spenden/baeume-verschenken.htm
   class: cta-button gift

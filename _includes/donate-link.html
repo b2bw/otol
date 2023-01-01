@@ -1,1 +1,1 @@
-<a href="https://www.bos-schweiz.ch/de/helfen/spenden/baum.htm?rnw-amount={{include.amount}}&rnw-stored_customer_email_permission=true&rnw-stored_customer_message={{include.message}}"><button class="button {{include.class}}">{% if include.icon %}{% assign name = {{include.icon}} %}{% include svg_icon.html name=name %}{% endif %} {{include.text}}</button></a>
+<a href="{{include.url}}"><button class="button {{include.class}}">{% if include.icon %}{% assign name = {{include.icon}} %}{% include svg_icon.html name=name %}{% endif %} {{include.text}}</button></a>
