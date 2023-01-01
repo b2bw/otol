@@ -10,7 +10,7 @@ anchor: intro
 
 <div class="videoWrapper"> <iframe src="https://player.vimeo.com/video/245368582" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
 
-**Möchten auch Sie aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann erwerben oder verschenken Sie zu je 7.65 Franken einen symbolischen Baum (Setzling + 5 Jahre Pflege) oder gleich einen ganzen Regenwald.** Machen Sie mit und erleben Sie, wie Ihr Engagement auf Borneo Wurzeln schlägt!
+**Möchten auch Sie aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann erwerben oder verschenken Sie zu je 7.65 Franken einen symbolischen Baum (Setzling + 5 Jahre Pflege) oder gleich einen ganzen Regenwald.** Auf Wunsch erhalten Sie zu Ihrer Spende bzw. Ihrem Geschenk eine wunderschöne **Graspapier-Urkunde** oder ein **digitales Zertifikat**. Machen Sie mit und erleben Sie, wie Ihr Engagement auf Borneo Wurzeln schlägt!
 
 {% include donate-group.html buttons=site.data.donate_buttons.main_raisenow %}
 
