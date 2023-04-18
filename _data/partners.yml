@@ -1,4 +1,6 @@
 ---
+- name: Metabo Schweiz AG
+  link: https://www.metabo-schweiz.ch/
 - name: Bechtle direct AG
   link: https://www.bechtle.com/
 - name: Studiladen Luzern
