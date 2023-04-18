@@ -1,4 +1,6 @@
 ---
+- name: Bechtle direct AG
+  link: https://www.bechtle.com/
 - name: Studiladen Luzern
   link: https://studiladen.com/
 - name: Niederer AG
