@@ -1,6 +1,8 @@
 ---
+- name: Job impuls AG
+  link: ''
 - name: Metabo Schweiz AG
-  link: https://www.metabo-schweiz.ch/
+  link: https://www.metabo.com/ch
 - name: Bechtle direct AG
   link: https://www.bechtle.com/
 - name: Studiladen Luzern
