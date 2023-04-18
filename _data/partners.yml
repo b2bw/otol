@@ -1,4 +1,6 @@
 ---
+- name: 'Doc IT '
+  link: https://www.doc-it.ch/
 - name: Almighty Tree
   link: https://www.almightytree.ch/
 - name: website-monkey.ch
@@ -27,16 +29,8 @@
   link: http://pastiche.io
 - name: SILC Tattoo After Care GmbH
   link: https://silctattoo.com/en/home-2/
-- name: Spalentor Optik GmbH
-  link: https://www.spalentor-optik.ch
 - name: SPIESS Energie + Haustechnik
   link: https://www.spiessag.com/de/
-- name: Sport Trend Shop AG
-  link: https://www.sport-trend-shop.ch/
-- name: Waldelbe Wovens
-  link: https://web.facebook.com/waldelbewovens/
-- name: Weita AG
-  link: https://www.weita.ch/de/home.htm
 - name: Zürich Versicherungs-Gesellschaft AG
   link: https://www.zurich.ch/
 - name: 200ok
