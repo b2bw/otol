@@ -1,4 +1,6 @@
 ---
+- name: Bejoo
+  link: https://www.bejoo.com/
 - name: The lovely chickpea
   link: https://www.thelovelychickpea.ch/
 - name: KnowS
