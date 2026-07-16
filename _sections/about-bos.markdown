@@ -5,7 +5,7 @@ title: Wer wir sind
 anchor: traegerorganisation
 
 ---
-One-Tree-One-Life ist eine Kampagne von Borneo Orangutan Survival (BOS) Schweiz in Zusammenarbeit mit den teilnehmenden Volontären bzw. Volontärinnen und unseren Partnern vor Ort (insbesondere der BOS Foundation). Die Kampagne wird zudem von den unten aufgeführten Unternehmen und anderen Partnern unterstützt.
+One-Tree-One-Life unterstützt Borneo Orangutan Survival (BOS) Schweiz in Zusammenarbeit mit den teilnehmenden Volontären bzw. Volontärinnen und unseren Partnern vor Ort (insbesondere der BOS Foundation). Die Kampagne wird zudem von den unten aufgeführten Unternehmen und anderen Partnern unterstützt.
 
 {: .image.left}
 ![BOS HQ Zürich](assets/img/bos-hq.jpg){:class="img-responsive"}
