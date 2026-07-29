@@ -6,7 +6,7 @@ date: 2018-01-02T15:16:24.000+00:00
 anchor: intro
 
 ---
-**Für uns liefern die Regenwälder Indonesiens Sauerstoff und regeln unser Weltklima.** Dennoch werden jedes Jahr allein auf Borneo bis zu 1.3 Mio. Hektare Regenwald vernichtet. Dies ist eine der weltweit höchsten Abholzungsraten. Tag für Tag schwindet so auch die Lebensgrundlage der Orang-Utans und anderer bedrohter Arten. **Im Rahmen der One-Tree-One-Life-Kampagne forsten wir von BOS Schweiz deshalb gemeinsam mit Freiwilligen aus der Schweiz, Mitarbeitenden der BOS Foundation und lokalen Kräften in Indonesien zerstörte Regenwaldgebiete wieder auf und stellen intakte Waldgebiete unter Schutz.**
+**Für uns liefern die Regenwälder Indonesiens Sauerstoff und regeln unser Weltklima.** Dennoch werden jedes Jahr allein auf Borneo bis zu 1.3 Mio. Hektare Regenwald vernichtet. Dies ist eine der weltweit höchsten Abholzungsraten. Tag für Tag schwindet so auch die Lebensgrundlage der Orang-Utans und anderer bedrohter Arten. **One Tree One Life ist eine Kampagne für BOS Schweiz. Volontärinnen, Volontäre und Sponsoren unterstützen damit die Aufforstung zerstörter Regenwaldgebiete und den Schutz intakter Waldgebiete durch BOS Schweiz, die BOS Foundation und lokale Kräfte in Indonesien.**
 
 <div class="videoWrapper"> <iframe src="https://player.vimeo.com/video/245368582" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
 
@@ -14,4 +14,4 @@ anchor: intro
 
 {% include donate-group.html buttons=site.data.donate_buttons.main_raisenow %}
 
-Mit Ihrer Spende unterstützen Sie die Renaturierung und Aufforstung von zerstörten Regenwaldgebieten, den Erwerb und Unterhalt von BOS-eigenen Schutzgebieten, die Arbeit in den BOS-Rettungsstationen in Indonesien sowie die Arbeit von BOS Schweiz im Bereich Regenwaldschutz. Erfahren Sie mehr zu diesen Vorhaben und zur begleitenden BOS Schweiz-Volontärreise!
+Mit Ihrer Spende unterstützen Sie die Renaturierung und Aufforstung von zerstörten Regenwaldgebieten, den Erwerb und Unterhalt von BOS-eigenen Schutzgebieten, die Arbeit in den BOS-Rettungsstationen in Indonesien sowie die Arbeit von BOS Schweiz im Bereich Regenwaldschutz. Erfahren Sie mehr zu diesen Vorhaben und zur begleitenden Volontärreise!

@@ -4,9 +4,11 @@ layout: default
 
 {% assign sections = site.sections | sort: 'order' %} 
 {% for section in sections %} 
+  {% unless section.published == false %}
   {% if section.include != null %} 
     {% include {{ section.include }} %} 
   {% else %} 
     {% include sections/normal.html %} 
   {% endif %} 
+  {% endunless %}
 {% endfor %}

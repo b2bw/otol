@@ -1,14 +1,14 @@
 ---
 order: 2
 include: sections/reverse.html
-title: Wo wir Regenwald aufforsten und schützen
+title: Wo Regenwald aufgeforstet und geschützt wird
 date: 2019-12-14T23:00:00.000+00:00
 anchor: projekte
 
 ---
 **Renaturierung und Aufforstung zerstörter Wälder**
 
-Auch 300 Hektare Regenwald rund um die **BOS-Rettungsstation in Samboja Lestari** fielen 2015 den Flammen zum Opfer. Einen Teil dieses Gebietes forsten wir heute gemeinsam mit den Freiwilligen im Rahmen der One-Tree-One-Life-Kampagne wieder auf. Die Setzlinge werden in einer eigenen Baumschule gezogen. Gepflanzt wird ein Mix aus Frucht- und Nutzbäumen, alles endemische und meist bedrohte Arten. Knapp 220 Hektare liegen noch vor uns.
+Auch 300 Hektare Regenwald rund um die **BOS-Rettungsstation in Samboja Lestari** fielen 2015 den Flammen zum Opfer. Die Wiederaufforstung eines Teils dieses Gebietes wird von der One-Tree-One-Life-Kampagne und ihren Freiwilligen unterstützt. Die Setzlinge werden in einer eigenen Baumschule gezogen. Gepflanzt wird ein Mix aus Frucht- und Nutzbäumen, alles endemische und meist bedrohte Arten. Knapp 220 Hektare müssen noch aufgeforstet werden.
 
 Dass das gemeinsam durchaus möglich ist, wissen wir aus Erfahrung: In mühevoller Kleinarbeit wurde nämlich einst das gesamte 1800 Hektare grosse Gebiet von Samboja Lestari Baum für Baum aufgeforstet. Am heutigen Standort der BOS-Rettungsstation befand sich vor knapp 20 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe.
 
@@ -26,9 +26,9 @@ _Quelle: Björn Vaughn, BPI_
 
 Im Laufe der letzten 20 Jahre haben die Kanäle die einst feuchten Torfmoorböden weitgehend ausgetrocknet und so den natürlichen Brandschutz zerstört. Heute ist der Mawas-Regenwald deshalb sehr anfällig für Brände. 
 
-Mit diesem Problem sowie illegaler Abholzung sind wir in der Region rund um das Dorf Tuanan konfrontiert. Dort lebt in einem von BOS-verwalteten Schutzwald eine der letzten grossen wilden Orang-Utan-Populationen (knapp 2550 Tiere), die es zu schützen gilt. Im Rahmen des **Tuanan Projektes** verschliessen wir die ehemaligen Entwässerungskanäle und bilden Brandschutz-Teams aus. Der Torfmoorboden wird renaturiert und dann wieder aufgeforstet. In eigenen Baumschulen werden Setzlinge gezogen und von lokalen Kräften auch gepflanzt. Begleitende Mikrokreditprojekte schaffen alternative Einkommensquellen zur illegalen Abholzung und zur Wilderei.
+Auch die Region rund um das Dorf Tuanan ist von diesem Problem und illegaler Abholzung betroffen. Dort lebt in einem von BOS verwalteten Schutzwald eine der letzten grossen wilden Orang-Utan-Populationen (knapp 2550 Tiere), die es zu schützen gilt. Im Rahmen des **Tuanan-Projektes** werden die ehemaligen Entwässerungskanäle verschlossen und Brandschutz-Teams ausgebildet. Der Torfmoorboden wird renaturiert und dann wieder aufgeforstet. In eigenen Baumschulen werden Setzlinge gezogen und von lokalen Kräften auch gepflanzt. Begleitende Mikrokreditprojekte schaffen alternative Einkommensquellen zur illegalen Abholzung und zur Wilderei.
 
-Ebenfalls in Zentral-Kalimantan, im Sebangau Nationalpark, befindet sich der grösste nicht fragmentierte Tieflandregenwald Borneos. Dieser Wald - und insbesondere die Torfmoore rund um das Dorf **Sei-Bangah** – fungiert als riesiger Kohlenstoffspeicher und zeichnet sich durch einen unvergleichlichen Artenreichtum aus. Dort ist eine der grössten im Tiefland lebende Orang-Utan-Population beheimatet. Gemeinsam mit der Nationalpark-Behörde, der Dorfgemeinde und BOS Schweiz entwickelte unsere Partnerorganisation vor Ort - die Borneo Nature Foundation - Aktivitäten, um den Sei-Bangah-Wald vor Bränden zu schützen. Mehr zu unseren **aktuellen Aufforstungs- und Walschutzvorhaben** erfahren Sie [hier](https://www.bos-schweiz.ch/de/waldschutz/unsere-waldschutzprojekte.htm).
+Ebenfalls in Zentral-Kalimantan, im Sebangau Nationalpark, befindet sich der grösste nicht fragmentierte Tieflandregenwald Borneos. Dieser Wald - und insbesondere die Torfmoore rund um das Dorf **Sei-Bangah** – fungiert als riesiger Kohlenstoffspeicher und zeichnet sich durch einen unvergleichlichen Artenreichtum aus. Dort ist eine der grössten im Tiefland lebende Orang-Utan-Population beheimatet. Gemeinsam mit der Nationalpark-Behörde, der Dorfgemeinde und BOS Schweiz entwickelte die Borneo Nature Foundation Aktivitäten, um den Sei-Bangah-Wald vor Bränden zu schützen. Mehr zu den **aktuellen Aufforstungs- und Waldschutzvorhaben von BOS Schweiz** erfahren Sie [hier](https://www.bos-schweiz.ch/de/waldschutz/unsere-waldschutzprojekte.htm).
 
 **Existierende Wälder schützen**
 
